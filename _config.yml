@@ -2,12 +2,12 @@
 title: BY Blog
 SEOTitle: 奔奔的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 1239738499@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 奔奔的博客, benben, yy, Python, Machine Learning, Deep Learning, CV, NLP"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://benben-star.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/benben-star/benben-star.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
