@@ -1,14 +1,17 @@
 ---
 layout:     post
-title:      python简介12345
-subtitle:   python
-date:       2020-05-05
-author:     BB
+title:      test
+subtitle:   测试
+date:       2017-02-04
+author:     BY
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - Python
----
+    - Obj-C
+    - Runtime
+    - iOS
+--- 
+
 
 # 目标
 
