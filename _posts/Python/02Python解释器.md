@@ -2,7 +2,7 @@
 layout:     post
 title:      python简介
 subtitle:   python
-date:       2020-05-05
+date:       2020-05-06
 author:     BB
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
