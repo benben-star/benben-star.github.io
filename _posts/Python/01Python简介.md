@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      python
-subtitle:   Runtime 使用案例
+title:      python简介
+subtitle:   python
 date:       2020-05-05
 author:     BY
 header-img: img/post-bg-ios9-web.jpg
