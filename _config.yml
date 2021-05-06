@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
+title: BB Blog
 SEOTitle: 奔奔的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 1239738499@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 奔奔的博客, benben, yy, Python, Machine Learning, Deep Learning, CV, NLP"
+keyword: "BB, BB Blog, 奔奔的博客, benben, Python, Machine Learning, Deep Learning, CV, NLP"
 url: "http://benben-star.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/benben-star/benben-star.github.io" # you code repository
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: 
 
 # Gitalk
 gitalk:
