@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      python简介
+title:      python简介12345
 subtitle:   python
 date:       2020-05-05
 author:     BB

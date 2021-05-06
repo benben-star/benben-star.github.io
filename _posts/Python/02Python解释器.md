@@ -7,7 +7,6 @@ author:     BB
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - Python
     - 解释器
 ---
 
